@@ -13,6 +13,16 @@
     --foreground-rgb: 255, 255, 255;
     --background-start-rgb: 0, 0, 0;
     --background-end-rgb: 0, 0, 0;
+    --primary: #2980b9;
+    --background: #fff;
+    --background-secondary: #242424;
+    --text: #fff;
+    --text-secondary: #949daf;
+    --text-dark: #000;
+    --background-dark: #1c1c1e;
+    --background-secondary-dark: #3d3636;
+    --text-secondary-dark: #595c61;
+    --primary-dark: #2980b9;
   }
 }
 
